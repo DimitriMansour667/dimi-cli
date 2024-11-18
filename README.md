@@ -4,9 +4,16 @@ DIMI CLI is a command line interface for general use with many commands aimed to
 
 ## Installation
 
+install dependencies
 ```bash
 pip install -r requirements.txt
 ```
+
+add to PATH
+```bash
+export PATH="$PATH:/path/to/dimi"
+```
+
 
 ## Usage
 
